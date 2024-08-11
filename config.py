@@ -3,7 +3,7 @@ new_height = 1000  # New height
 locations_config = {
     'STN_HD_1': 
     { #done
-        'video_path': r'Video\Stn_HD_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -25,7 +25,7 @@ locations_config = {
 
     'Sty_Wll_Ldge_FIX_3': 
     { # done
-        'video_path': r'Video\Sty_Wll_Ldge_FIX_3_time_2024-05-14T07_30_02_001.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -41,7 +41,7 @@ locations_config = {
 
     'SBI_Bnk_JN_FIX_1': 
     { # done
-        'video_path': r'Video\Sty_Wll_Ldge_FIX_3_time_2024-05-14T07_30_02_001.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -62,7 +62,7 @@ locations_config = {
 
     'SBI_Bnk_JN_FIX_3': 
     {
-        'video_path': r'Video\Sty_Wll_Ldge_FIX_3_time_2024-05-14T07_30_02_001.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -77,7 +77,7 @@ locations_config = {
 
     '18th_Crs_BsStp_JN_FIX_2': #done
     {
-        'video_path': r'Video\18th_Crs_BsStp_JN_FIX_2_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -92,7 +92,7 @@ locations_config = {
 
     '18th_Crs_Bus_Stop_FIX_2': #done
     {
-        'video_path': r'Video\Sty_Wll_Ldge_FIX_3_time_2024-05-14T07_30_02_001.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -109,7 +109,7 @@ locations_config = {
 
     'Ayyappa_Temple_FIX_1': #done
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -124,7 +124,7 @@ locations_config = {
 
     'Devasandra_Sgnl_JN_FIX_1': #done
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -139,7 +139,7 @@ locations_config = {
 
     'Devasandra_Sgnl_JN_FIX_3': #done
     {
-        'video_path': r'Video\Stn_HD_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -159,7 +159,7 @@ locations_config = {
     },
 
     'Mattikere_JN_FIX_1': { #check
-        'video_path': r'Video\Mattikere_JN_FIX_2_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -179,7 +179,7 @@ locations_config = {
     },
 
     'Mattikere_JN_FIX_2': { #done
-        'video_path': r'Video\Mattikere_JN_FIX_2_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -200,7 +200,7 @@ locations_config = {
 
     'Mattikere_JN_FIX_3': #done
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -214,7 +214,7 @@ locations_config = {
     },
 
     'Mattikere_JN_HD_1': {
-        'video_path': r'Video\Mattikere_JN_FIX_2_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -236,7 +236,7 @@ locations_config = {
 
     'HP_Ptrl_Bnk_BEL_Rd_FIX_2': #done
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -251,7 +251,7 @@ locations_config = {
 
     'Kuvempu_Circle_FIX_1': 
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -266,7 +266,7 @@ locations_config = {
 
     'Kuvempu_Circle_FIX_2': 
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -280,7 +280,7 @@ locations_config = {
     },
 
     'MS_Ramaiah_JN_FIX_1': {
-        'video_path': r'Video\Mattikere_JN_FIX_2_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -300,7 +300,7 @@ locations_config = {
     },
 
     'MS_Ramaiah_JN_FIX_2': {
-        'video_path': r'Video\Mattikere_JN_FIX_2_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -322,7 +322,7 @@ locations_config = {
 
     'Ramaiah_BsStp_JN_FIX_1': 
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
@@ -337,7 +337,7 @@ locations_config = {
 
     'Ramaiah_BsStp_JN_FIX_2': 
     {
-        'video_path': r'Video\Ayyappa_Temple_FIX_1_time_2024-05-14T07_30_02_000.mp4',
+        'video_path': r'/path',
         'new_width': 1000,
         'new_height': 1000,
         'regions': {
