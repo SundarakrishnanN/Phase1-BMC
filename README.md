@@ -1,9 +1,14 @@
 # The Bengaluru Mobility Challenge, 2024
 ## Team "Get Fined"
-
+Winners of the Phase 1 of The Bengaluru Mobility Challenge <br/>
+<br/>
 Members: Sundarakrishnan N, Sohan Varier, Tarun Bhupathi, Manaswini SK of RV College of Engineering
 
 More detailed explainations can be found in the report: https://drive.google.com/file/d/1YZztqHRN1J5TLh3QNKnYMgrsRQ3Dhf7d/view?usp=drive_link
+
+#### Problem Statement:
+The participants in this phase will be provided with camera feeds from 23 Safe City cameras in northern Bengaluru, around the IISc campus. The task will be to provide short-term (e.g., 30 minutes into the future) predictions of the vehicle counts (by vehicle type) as well as vehicle turning patterns at certain points and junctions of the road network. The predictions may be at different points different from the locations where the camera feeds are available.
+
 
 ### Docker
 A Dockerfile has been created to install necessary libraries including CUDA for the model to be able to use GPUs. The docker file can be built and run in a simple way.\
