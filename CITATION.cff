@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "N"
+  given-names: "Sundarakrishnan"
+
+- family-names: "Varier"
+  given-names: "Sohan"
+
+- family-names: "Bhupathi"
+  given-names: "Tarun"
+
+- family-names: "Simhadri Kavali"
+  given-names: "Manaswini"
+
+title: "Phase1-BMC"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-09-23
+url: "https://github.com/SundarakrishnanN/Phase1-BMC"
