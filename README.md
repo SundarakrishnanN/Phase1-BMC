@@ -10,13 +10,6 @@ More detailed explainations can be found in the report: [Link](https://drive.goo
 The participants in this phase will be provided with camera feeds from 23 Safe City cameras in northern Bengaluru, around the IISc campus. The task will be to provide short-term (e.g., 30 minutes into the future) predictions of the vehicle counts (by vehicle type) as well as vehicle turning patterns at certain points and junctions of the road network. The predictions may be at different points different from the locations where the camera feeds are available.
 
 
-### Docker
-A Dockerfile has been created to install necessary libraries including CUDA for the model to be able to use GPUs. The docker file can be built and run in a simple way.\
-Build: `docker build -t username/imagename:version`\
-Push: `docker push  username/imagename:version`\
-Run: `docker run --rm --runtime=nvidia --gpus all -v 'YOUR STORAGE MOUNT':/app/data username/imagename:version python3 app.py input.json output.json`
-
-The run command takes the input and output json file to read,process ands save the results in. Build creates the docker container and push command is used to push it to the docker repository so that anyone can pull the image and run the same.
 
 ### Scripts and Files
 
@@ -105,6 +98,14 @@ Run `pip3 install -r requirements.txt` in the Program Scripts folder to install 
 **YOLOv8** by *Ultralyitcs* is an open source, real-time object detection and image segmentation model.
 
 **labelimg** is an annotation tool that provides features to draw and edit bounding boxes in the format required by YOLOv8.
+
+### Docker
+A Dockerfile has been created to install necessary libraries including CUDA for the model to be able to use GPUs. The docker file can be built and run in a simple way.\
+Build: `docker build -t username/imagename:version`\
+Push: `docker push  username/imagename:version`\
+Run: `docker run --rm --runtime=nvidia --gpus all -v 'YOUR STORAGE MOUNT':/app/data username/imagename:version python3 app.py input.json output.json`
+
+The run command takes the input and output json file to read,process ands save the results in. Build creates the docker container and push command is used to push it to the docker repository so that anyone can pull the image and run the same.
 
 ### System Requirements
 
