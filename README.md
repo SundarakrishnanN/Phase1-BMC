@@ -1,5 +1,5 @@
 # The Bengaluru Mobility Challenge, 2024
-## Team "Get Fined"
+## Team "GetFined"
 Winners of the Phase 1 of The Bengaluru Mobility Challenge <br/>
 <br/>
 Members: Sundarakrishnan N, Sohan Varier, Tarun Bhupathi, Manaswini SK of RV College of Engineering
