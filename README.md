@@ -2,6 +2,7 @@
 ## Team "GetFined"
 Winners of the Phase 1 of The Bengaluru Mobility Challenge <br/>
 <br/>
+https://www.linkedin.com/posts/centre-of-data-for-public-good-cdpg_the-bengaluru-traffic-police-ieee-foundation-activity-7242915165258584064-vBOg/?utm_source=share&utm_medium=member_android
 Members: Sundarakrishnan N, Sohan Varier, Tarun Bhupathi, Manaswini SK of RV College of Engineering
 
 More detailed explainations can be found in the report: [Link](https://drive.google.com/file/d/1YZztqHRN1J5TLh3QNKnYMgrsRQ3Dhf7d/view?usp=drive_link)
